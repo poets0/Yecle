@@ -1,5 +1,5 @@
 # wuming
-通过域名获取C段信息
+通过domain获取C段信息
 ## 1.简介
 使用golang编写
 
