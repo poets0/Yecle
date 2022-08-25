@@ -1,6 +1,8 @@
 # wuming
 通过域名获取C段信息
 ## 1.简介
+使用golang编写
+
 下载地址[releases](https://github.com/liuzi-cyj/wuming/releases/tag/v0.0.1)
 
 代码太烂了
